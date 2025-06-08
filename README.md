@@ -11,6 +11,7 @@
 ## 🌱 I'm currently learning
   - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python Icon" height="15px" width="15px"/> Python
   - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Icon" height="15px" width="15px"/> JavaScript
+  - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript Icon" height="15px" width="15px"/> TypeScript
 
 ## 🛠️ Skills
 - Languages: Python, JavaScript, CSS
