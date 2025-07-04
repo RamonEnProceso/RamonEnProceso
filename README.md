@@ -10,7 +10,7 @@
 <br>
 
 <p align="center"><span style="width: 8px;"></span><a href="https://www.youtube.com/@Ranuuki_atr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Animations YouTube" height="23px" width="33px"/></a>
-<span style="width: 8px;"> </span><a href="https://www.instagram.com/ranuuki_atr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Drawing Instagram" height="30" width="40"/></a><span style="width: 8px;"></span><a href="https://www.linkedin.com/in/ram%C3%B3n-ram%C3%ADrez-561469246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40"/></a></p>
+<span style="width: 8px;">  </span><a href="https://www.instagram.com/ranuuki_atr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Drawing Instagram" height="30px" width="33px"/></a><span style="width: 8px;">     </span><a href="https://www.linkedin.com/in/ram%C3%B3n-ram%C3%ADrez-561469246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30px" width="40"/></a></p>
 
 ## 📝 About Me
 - 🎓 I'm a studying computer engineering at FIUBA
