@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ramón / Ranuuki <img alt="ARG" height="20" src="https://images.emojiterra.com/twitter/512px/1f1e6-1f1f7.png">
+## Hi there 👋, I'm Ramón / Ranuuki <img alt="ARG" width="20px" src="https://images.emojiterra.com/twitter/512px/1f1e6-1f1f7.png">
 <br>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
