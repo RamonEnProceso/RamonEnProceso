@@ -1,16 +1,7 @@
 ## Hi there 👋, I'm Ramón <img alt="ARG" width="20px" src="https://images.emojiterra.com/twitter/512px/1f1e6-1f1f7.png">
-#### llustrator · Motion Designer · Software Developer (in progress)
+#### llustrator · Motion Designer · Software Developer
+
 ---
-
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=RamonEnProceso&theme=github_dark&hide=contribs&show_icons=true&rank_icon=github"/>
-</a><br><br><a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamonEnProceso&layout=compact&langs_count=8&card_width=385&theme=github_dark" />
-</a></p>
-
-<br>
-
-<p align="center"></span><a href="https://www.linkedin.com/in/ram%C3%B3n-ram%C3%ADrez-561469246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30px" width="40"/></a></p>
 
 ## 📝 About Me
 - 🎓 Computer Engineering student at UTN
