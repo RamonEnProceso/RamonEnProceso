@@ -12,7 +12,7 @@
 ## 🌱 I'm currently learning
   - <img align="center" src="./assets/icons/React_logo.webp" alt="React Icon" height="15px" width="17px"/> React
   - <img align="center" src="/assets/icons/cpp_logo.webp" alt="C++ Icon" height="15px" width="15px"/> C++
-  - <img align="center" src="./assets/icons/Unity_Logo.webp" alt="Unity Logo" height="15px" width="15px"/> <img align="center" src="./assets/icons/Csharp_Logo.webp" alt="C# Icon" height="15px" width="15px"/> C#
+  - <img align="center" src="./assets/icons/Unity_logo.webp" alt="Unity Logo" height="15px" width="15px"/> <img align="center" src="./assets/icons/Csharp_Logo.webp" alt="C# Icon" height="15px" width="15px"/> C#
 
 
 ## 🛠️ Skills
