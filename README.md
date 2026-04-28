@@ -1,29 +1,33 @@
-## Hi there 👋, I'm Ramón <img alt="ARG" width="20px" src="https://images.emojiterra.com/twitter/512px/1f1e6-1f1f7.png">
+## <img align="center" src="/assets/own_icons/ElVueltero_logo.webp" alt="El Vueltero Icon" height="45px" width="40px"/> Hi there, I'm Ramón <img alt="ARG" width="20px" src="/assets/icons/Arg.webp">
 #### llustrator · Motion Designer · Software Developer
 
 ---
 
 
 ## 📝 About Me
-- 🎓 Computer Engineering student at UTN
-- 🎨 Digital illustrator working mainly in Krita
-- 🎞️ Motion graphics animator & editor
+- <img align="center" src="./assets/icons/UTN_FBRA_logo.webp" alt="UTN-FRBA Logo" height="20px" width="20px"/>🎓 Computer Engineering student at UTN
+- <img align="center" src="/assets/icons/Krita_logo.webp" alt="Krita Icon" height="20px" width="20px"/>🎨 Digital illustrator working mainly in Krita
+- <img align="center" src="./assets/icons/AfterEffects_logo.webp" alt="After Effects Icon" height="18px" width="18px"/> 🎞️ Motion graphics animator & editor
 
 ## 🌱 I'm currently learning
-  - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/960px-Typescript.svg.png" alt="TypeScript Icon" height="15px" width="15px"/> TypeScript / <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Icon" height="15px" width="15px"/> JavaScript
-  - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png?_=20180723054350" alt="Bash Icon" height="15px" width="15px"/><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/960px-Tux.svg.png" alt="Tux Image" height="15px" width="15px"/> Linux (Bash)
-  - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png?_=20220125121207" alt="React Icon" height="15px" width="15px"/> React
-  - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/330px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Icon" height="15px" width="15px"/> C++
+  - <img align="center" src="./assets/icons/React_logo.webp" alt="React Icon" height="15px" width="17px"/> React
+  - <img align="center" src="/assets/icons/cpp_logo.webp" alt="C++ Icon" height="15px" width="15px"/> C++
+  - <img align="center" src="./assets/icons/Unity_Logo.webp" alt="Unity Logo" height="15px" width="15px"/> <img align="center" src="./assets/icons/Csharp_Logo.webp" alt="C# Icon" height="15px" width="15px"/> C#
 
 
 ## 🛠️ Skills
-- Languages:  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/960px-Typescript.svg.png" alt="TypeScript Icon" height="15px" width="15px"/> TypeScript / <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Icon" height="15px" width="15px"/> JavaScript, <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?_=20250701090410" alt="Python Icon" height="15px" width="15px"/> Python, <img align="center" src="https://github.com/user-attachments/assets/1f5600ee-68f0-4db5-b05c-ee974bf6df5c" alt="CSS Icon" height="15px" width="15px"/> CSS
-- Frameworks/ Libraries: <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png?_=20220125121207" alt="React Icon" height="15px" width="15px"/> React
+- Languages:
+  - <img align="center" src="./assets/icons/Typescript_logo.webp" alt="TypeScript Icon" height="15px" width="15px"/> TypeScript / <img align="center" src="./assets/icons/Javascript_logo.webp" alt="JavaScript Icon" height="15px" width="15px"/> JavaScript, <img align="center" src="./assets/icons/CSS_logo.webp" alt="CSS Icon" height="15px" width="15px"/> CSS <img align="center" src="./assets/icons/Python_logo.webp" alt="Python Icon" height="15px" width="15px"/> Python, <img align="center" src="./assets/icons/Csharp_Logo.webp" alt="C# Icon" height="15px" width="15px"/> C#, <img align="center" src="/assets/icons/cpp_logo.webp" alt="C++ Icon" height="15px" width="15px"/> C++   
+
+- Frameworks/ Libraries: <img align="center" src="/assets/icons/React_logo.webp" alt="React Icon" height="15px" width="15px"/> React
 - Tools:
-  - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/960px-2023_Obsidian_logo.svg.png" alt="Obsidian Icon" height="15px" width="15px"/> Obsidian, <img align="center" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git Icon" height="15px" width="15px"/> Git, <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png?_=20180723054350" alt="Bash Icon" height="15px" width="15px"/><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/960px-Tux.svg.png" alt="Tux Image" height="15px" width="15px"/> Bash
-  - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/960px-Adobe_After_Effects_CC_icon.svg.png" alt="After Effects Icon" height="15px" width="15px"/> After Effects, <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/960px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premiere Icon" height="15px" width="15px"/> Premiere, <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop Icon" height="15px" width="15px"/> Photoshop, <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/960px-Calligrakrita-base.svg.png" alt="Krita Icon" height="15px" width="15px"/> Krita
+  - <img align="center" src="/assets/icons/Obsidian_logo.webp" alt="Obsidian Icon" height="15px" width="15px"/> Obsidian, <img align="center" src="/assets/icons/git_logo.webp" alt="Git Icon" height="15px" width="15px"/> Git, <img align="center" src="./assets/icons/bash_logo.webp" alt="Bash Icon" height="15px" width="15px"/><img align="center" src="./assets/icons/Tux_Icon.webp" alt="Tux Image" height="18px" width="15px"/> Bash
+  - <img align="center" src="./assets/icons/AfterEffects_logo.webp" alt="After Effects Icon" height="15px" width="15px"/> After Effects, <img align="center" src="/assets/icons/Premiere_logo.webp" alt="Premiere Icon" height="15px" width="15px"/> Premiere, <img align="center" src="/assets/icons/Photoshop_logo.webp" alt="Photoshop Icon" height="15px" width="15px"/> Photoshop, <img align="center" src="/assets/icons/Krita_logo.webp" alt="Krita Icon" height="15px" width="15px"/> Krita
+  - <img align="center" src="./assets/icons/Ollama_logo.webp" alt="Ollama Logo" height="15px" width="15px"/> Ollama
 
 ## 🗃️ Currrently Proyects
-- Sophia AI – a locally-run interactive avatar that reacts in real time to user input, blending animation and conversational interfaces. Currently focused on expressive behavior, presence, and user experience rather than full AI autonomy.
-- iTEC App – a mobile-first platform for UTN students to track their academic progress, access shared notes, and discover study communities. Built to solve real student pain points.
-- El Vueltero’s Gallery – a curated showcase of my digital illustration and animation work, blending personal expression with experimental visual storytelling.
+- <img align="center" src="/assets/own_icons/Sophia_face.webp" alt="SOPHIA Icon" height="20px" width="20px"/> [**Sophia AI**](https://github.com/RamonEnProceso/SOPHIA) – a locally-run interactive avatar that reacts in real time to user input, blending animation and conversational interfaces. Currently focused on expressive behavior, presence, and user experience rather than full AI autonomy.
+
+- <img align="center" src="/assets/own_icons/ElVueltero_logo.webp" alt="SOPHIA Icon" height="23px" width="20px"/> [**El Vueltero’s Gallery**](https://github.com/RamonEnProceso/El-Vueltero-gallery) – a curated showcase of my digital illustration and animation work, blending personal expression with experimental visual storytelling.
+
+- <img align="center" src="/assets/own_icons/TuxUTNLogo.webp" alt="Tux UTN Logo" height="20px" width="16px"/> [**Visualizador de Materias**](https://github.com/RamonEnProceso/visualizador-cursada-UTN) – a mobile-first web for UTN students to track their academic progress.
