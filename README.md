@@ -6,8 +6,8 @@
 
 ## 📝 About Me
 - <img align="center" src="./assets/icons/UTN_FBRA_logo.webp" alt="UTN-FRBA Logo" height="20px" width="20px"/>🎓 Computer Engineering student at UTN
-- <img align="center" src="/assets/icons/Krita_logo.webp" alt="Krita Icon" height="20px" width="20px"/>🎨 Digital illustrator working mainly in Krita
 - <img align="center" src="./assets/icons/AfterEffects_logo.webp" alt="After Effects Icon" height="18px" width="18px"/> 🎞️ Motion graphics animator & editor
+- <img align="center" src="/assets/icons/Krita_logo.webp" alt="Krita Icon" height="20px" width="20px"/>🎨 Digital illustrator
 
 ## 🌱 I'm currently learning
   - <img align="center" src="./assets/icons/React_logo.webp" alt="React Icon" height="15px" width="17px"/> React
