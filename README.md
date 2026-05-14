@@ -1,10 +1,13 @@
 ## <img align="center" src="/assets/own_icons/ElVueltero_logo.webp" alt="El Vueltero Icon" height="45px" width="40px"/> Hi there, I'm Ramón <img alt="ARG" width="20px" src="/assets/icons/Arg.webp">
 #### llustrator · Motion Designer · Software Developer
-
 ---
 
+<div align="center">
+<img  align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RamonEnProceso&layout=compact&theme=dark&card_width=650&hide_border=true"/>
+</div>
 
 ## 📝 About Me
+
 - <img align="center" src="./assets/icons/UTN_FBRA_logo.webp" alt="UTN-FRBA Logo" height="20px" width="20px"/>🎓 Computer Engineering student at UTN
 - <img align="center" src="./assets/icons/AfterEffects_logo.webp" alt="After Effects Icon" height="18px" width="18px"/> 🎞️ Motion graphics animator & editor
 - <img align="center" src="/assets/icons/Krita_logo.webp" alt="Krita Icon" height="20px" width="20px"/>🎨 Digital illustrator
@@ -14,8 +17,8 @@
   - <img align="center" src="/assets/icons/cpp_logo.webp" alt="C++ Icon" height="15px" width="15px"/> C++
   - <img align="center" src="./assets/icons/Unity_logo.webp" alt="Unity Logo" height="15px" width="15px"/> <img align="center" src="./assets/icons/Csharp_Logo.webp" alt="C# Icon" height="15px" width="15px"/> C#
 
-
 ## 🛠️ Skills
+
 - Languages:
   - <img align="center" src="./assets/icons/Typescript_logo.webp" alt="TypeScript Icon" height="15px" width="15px"/> TypeScript / <img align="center" src="./assets/icons/Javascript_logo.webp" alt="JavaScript Icon" height="15px" width="15px"/> JavaScript, <img align="center" src="./assets/icons/CSS_logo.webp" alt="CSS Icon" height="15px" width="15px"/> CSS <img align="center" src="./assets/icons/Python_logo.webp" alt="Python Icon" height="15px" width="15px"/> Python, <img align="center" src="./assets/icons/Csharp_Logo.webp" alt="C# Icon" height="15px" width="15px"/> C#, <img align="center" src="/assets/icons/cpp_logo.webp" alt="C++ Icon" height="15px" width="15px"/> C++   
 
