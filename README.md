@@ -11,19 +11,58 @@
 
 ## 🛠️ Skills
 
-- Languages:
-  - <img align="center" src="./assets/icons/Typescript_logo.webp" alt="TypeScript Icon" height="15px" width="15px"/> TypeScript
-  - <img align="center" src="./assets/icons/Python_logo.webp" alt="Python Icon" height="15px" width="15px"/> Python
-  - <img align="center" src="/assets/icons/cpp_logo.webp" alt="C++ Icon" height="15px" width="15px"/> C++   
-  - <img align="center" src="./assets/icons/Csharp_Logo.webp" alt="C# Icon" height="15px" width="15px"/> C#
-  
+### Languajes
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/icons/Typescript_logo.webp" height="35px" width="35px" alt="TypeScript"/>
+      <br/>TypeScript
+    </td>
+    <td align="center">
+      <img src="./assets/icons/Python_logo.webp" height="35px" width="35px" alt="Python"/>
+      <br/>Python
+    </td>
+    <td align="center">
+      <img src="/assets/icons/cpp_logo.webp" height="35px" width="35px" alt="C++"/>
+      <br/>C++
+    </td>
+    <td align="center">
+      <img src="./assets/icons/Csharp_Logo.webp" height="35px" width="35px" alt="C#"/>
+      <br/>C#
+    </td>
+  </tr>
+</table>
 
-- Frameworks/ Libraries: 
-  - <img align="center" src="/assets/icons/React_logo.webp" alt="React Icon" height="15px" width="15px"/> React
-- Tools:
-  - <img align="center" src="/assets/icons/git_logo.webp" alt="Git Icon" height="15px" width="15px"/> Git
-  - <img align="center" src="./assets/icons/bash_logo.webp" alt="Bash Icon" height="15px" width="15px"/><img align="center" src="./assets/icons/Tux_Icon.webp" alt="Tux Image" height="18px" width="15px"/> Bash
-  - <img align="center" src="./assets/icons/Ollama_logo.webp" alt="Ollama Logo" height="15px" width="15px"/> Ollama
+<br>
+
+
+### Tools:
+
+<table>
+  <tr>
+    <td align="center">
+      <img align="center" src="/assets/icons/React_logo.webp" alt="React Icon" height="35px" width="40px"/>
+      <br/>React
+    </td>
+    <td align="center">
+      <img align="center" src="/assets/icons/git_logo.webp" alt="Git Icon" height="35px" width="35px"/>
+      <br/>Git
+    </td>
+    <td align="center">
+      <img align="center" src="./assets/icons/bash_logo.webp" alt="Bash Icon" height="35px" width="35px"/>
+      <br/>Bash
+    </td>
+    <td align="center">
+      <img align="center" src="./assets/icons/Tux_Icon.webp" alt="Tux Image" height="35px" width="30px"/>
+      <br/>Linux
+    </td>
+    <td align="center">
+      <img align="center" src="./assets/icons/Ollama_logo.webp" alt="Ollama Logo" height="35px" width="35px"/>
+      <br/>Ollama
+    </td>
+  </tr>
+</table>
+
 
 ## 🗃️ Currrently Proyects
 - <img align="center" src="/assets/own_icons/Sophia_face.webp" alt="SOPHIA Icon" height="20px" width="20px"/> [**Sophia AI**](https://github.com/RamonEnProceso/SOPHIA) – a locally-run interactive avatar that reacts in real time to user input, blending animation and conversational interfaces. Currently focused on expressive behavior, presence, and user experience rather than full AI autonomy.
