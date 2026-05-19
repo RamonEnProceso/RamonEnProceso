@@ -2,20 +2,11 @@
 #### llustrator · Motion Designer · Software Developer
 ---
 
-<div align="center">
-<img  align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RamonEnProceso&layout=compact&theme=dark&card_width=650&hide_border=true"/>
-</div>
-
 ## 📝 About Me
 
 - <img align="center" src="./assets/icons/UTN_FBRA_logo.webp" alt="UTN-FRBA Logo" height="20px" width="20px"/>🎓 Computer Engineering student at UTN
 - <img align="center" src="./assets/icons/AfterEffects_logo.webp" alt="After Effects Icon" height="18px" width="18px"/> 🎞️ Motion graphics animator & editor
 - <img align="center" src="/assets/icons/Krita_logo.webp" alt="Krita Icon" height="20px" width="20px"/>🎨 Digital illustrator
-
-## 🌱 I'm currently learning
-  - <img align="center" src="./assets/icons/React_logo.webp" alt="React Icon" height="15px" width="17px"/> React
-  - <img align="center" src="/assets/icons/cpp_logo.webp" alt="C++ Icon" height="15px" width="15px"/> C++
-  - <img align="center" src="./assets/icons/Unity_logo.webp" alt="Unity Logo" height="15px" width="15px"/> <img align="center" src="./assets/icons/Csharp_Logo.webp" alt="C# Icon" height="15px" width="15px"/> C#
 
 ## 🛠️ Skills
 
