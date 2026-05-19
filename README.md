@@ -9,15 +9,15 @@
   <tr>
     <td align="center">
       <img align="center" src="./assets/icons/UTN_FBRA_logo.webp" alt="UTN-FRBA Logo" height="35px" width="35px"/>
-      <br/>Computer Engineering<br/>🎓 Student at UTN
+      <br/>🎓 Computer Engineering<br/>Student at UTN
     </td>
     <td align="center">
       <img align="center" src="./assets/icons/AfterEffects_logo.webp" alt="After Effects Icon" height="35px" width="35px"/>
-      <br/>Motion graphics <br/>🎞️ Animator & editor
+      <br/>🎞️ Animator <br/>& editor
     </td>
     <td align="center">
       <img align="center" src="/assets/icons/Krita_logo.webp" alt="Krita Icon" height="35px" width="35px"/>
-      <br/>🎨 Digital illustrator
+      <br/>🎨 Digital <br/>illustrator
     </td>
   </tr>
 </table>
