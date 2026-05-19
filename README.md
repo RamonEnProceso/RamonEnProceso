@@ -5,14 +5,29 @@
 
 ## 📝 About Me
 
-- <img align="center" src="./assets/icons/UTN_FBRA_logo.webp" alt="UTN-FRBA Logo" height="20px" width="20px"/>🎓 Computer Engineering student at UTN
-- <img align="center" src="./assets/icons/AfterEffects_logo.webp" alt="After Effects Icon" height="18px" width="18px"/> 🎞️ Motion graphics animator & editor
-- <img align="center" src="/assets/icons/Krita_logo.webp" alt="Krita Icon" height="20px" width="20px"/>🎨 Digital illustrator
+<table align="center">
+  <tr>
+    <td align="center">
+      <img align="center" src="./assets/icons/UTN_FBRA_logo.webp" alt="UTN-FRBA Logo" height="35px" width="35px"/>
+      <br/>Computer Engineering<br/>🎓 Student at UTN
+    </td>
+    <td align="center">
+      <img align="center" src="./assets/icons/AfterEffects_logo.webp" alt="After Effects Icon" height="35px" width="35px"/>
+      <br/>Motion graphics <br/>🎞️ Animator & editor
+    </td>
+    <td align="center">
+      <img align="center" src="/assets/icons/Krita_logo.webp" alt="Krita Icon" height="35px" width="35px"/>
+      <br/>🎨 Digital illustrator
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Skills
 
-### Languajes
-<table>
+<div align="center">
+  
+### Languages
+<table align="center">
   <tr>
     <td align="center">
       <img src="./assets/icons/Typescript_logo.webp" height="35px" width="35px" alt="TypeScript"/>
@@ -34,9 +49,9 @@
 </table>
 
 
-### Tools:
+### Tools
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img align="center" src="/assets/icons/React_logo.webp" alt="React Icon" height="35px" width="40px"/>
@@ -61,6 +76,7 @@
   </tr>
 </table>
 
+</div>
 
 ## 🗃️ Currrently Proyects
 - <img align="center" src="/assets/own_icons/Sophia_face.webp" alt="SOPHIA Icon" height="20px" width="20px"/> [**Sophia AI**](https://github.com/RamonEnProceso/SOPHIA) – a locally-run interactive avatar that reacts in real time to user input, blending animation and conversational interfaces. Currently focused on expressive behavior, presence, and user experience rather than full AI autonomy.
