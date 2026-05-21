@@ -78,12 +78,27 @@
 
 </div>
 
-## 🗃️ Currrently Proyects
-- <img align="center" src="/assets/own_icons/Sophia_face.webp" alt="SOPHIA Icon" height="20px" width="20px"/> [**Sophia AI**](https://github.com/RamonEnProceso/SOPHIA) – a locally-run interactive avatar that reacts in real time to user input, blending animation and conversational interfaces. Currently focused on expressive behavior, presence, and user experience rather than full AI autonomy.
+## 🗃️ Current Proyects
 
-- <img align="center" src="/assets/own_icons/ElVueltero_logo.webp" alt="SOPHIA Icon" height="23px" width="20px"/> [**El Vueltero’s Gallery**](https://github.com/RamonEnProceso/El-Vueltero-gallery) – a curated showcase of my digital illustration and animation work, blending personal expression with experimental visual storytelling.
-
-- <img align="center" src="/assets/own_icons/TuxUTNLogo.webp" alt="Tux UTN Logo" height="20px" width="16px"/> [**Visualizador de Materias**](https://github.com/RamonEnProceso/visualizador-cursada-UTN) – a mobile-first web for UTN students to track their academic progress.
+<table align="center">
+  <tr>
+    <td align="center">
+    <a href="https://github.com/RamonEnProceso/SOPHIA">
+      <img align="center" src="./assets/cards/ShopiaAICard.webp" alt="UTN-FRBA Logo" width="300px"/>
+    </a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/RamonEnProceso/El-Vueltero-gallery">
+      <img align="center" src="./assets/cards/ElVuelteroCard.webp" alt="UTN-FRBA Logo" width="300px"/>
+    </a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/RamonEnProceso/visualizador-cursada-UTN">
+      <img align="center" src="./assets/cards/VisualizadorUTNCard.webp" alt="UTN-FRBA Logo" width="300px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
