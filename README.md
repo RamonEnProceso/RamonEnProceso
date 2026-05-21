@@ -84,17 +84,17 @@
   <tr>
     <td align="center">
     <a href="https://github.com/RamonEnProceso/SOPHIA">
-      <img align="center" src="./assets/cards/ShopiaAICard.webp" alt="UTN-FRBA Logo" width="300px"/>
+      <img align="center" src="./assets/cards/ShopiaAICard.webp" alt="SOPHIA - Github" width="300px"/>
     </a>
     </td>
     <td align="center">
     <a href="https://github.com/RamonEnProceso/El-Vueltero-gallery">
-      <img align="center" src="./assets/cards/ElVuelteroCard.webp" alt="UTN-FRBA Logo" width="300px"/>
+      <img align="center" src="./assets/cards/ElVuelteroCard.webp" alt="El Vueltero's Gallery - Github" width="300px"/>
     </a>
     </td>
     <td align="center">
     <a href="https://github.com/RamonEnProceso/visualizador-cursada-UTN">
-      <img align="center" src="./assets/cards/VisualizadorUTNCard.webp" alt="UTN-FRBA Logo" width="300px"/>
+      <img align="center" src="./assets/cards/VisualizadorUTNCard.webp" alt="Visualizador de Cursada UTN - Github" width="300px"/>
       </a>
     </td>
   </tr>
