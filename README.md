@@ -78,7 +78,7 @@
 
 </div>
 
-## 🗃️ Currrently Projects
+## 🗃️ Current Projects
 - <img align="center" src="/assets/own_icons/Sophia_face.webp" alt="SOPHIA Icon" height="20px" width="20px"/> [**Sophia AI**](https://github.com/RamonEnProceso/SOPHIA) – a locally-run interactive avatar that reacts in real time to user input, blending animation and conversational interfaces. Currently focused on expressive behavior, presence, and user experience rather than full AI autonomy.
 
 - <img align="center" src="/assets/own_icons/ElVueltero_logo.webp" alt="SOPHIA Icon" height="23px" width="20px"/> [**El Vueltero’s Gallery**](https://github.com/RamonEnProceso/El-Vueltero-gallery) – a curated showcase of my digital illustration and animation work, blending personal expression with experimental visual storytelling.
