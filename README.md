@@ -78,7 +78,7 @@
 
 </div>
 
-## 🗃️ Current Proyects
+## 🗃️ Current Projects
 
 <table align="center">
   <tr>
