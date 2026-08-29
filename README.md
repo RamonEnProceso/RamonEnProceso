@@ -41,10 +41,6 @@
       <img src="/assets/icons/cpp_logo.webp" height="35px" width="35px" alt="C++"/>
       <br/>C++
     </td>
-    <td align="center">
-      <img src="./assets/icons/Csharp_Logo.webp" height="35px" width="35px" alt="C#"/>
-      <br/>C#
-    </td>
   </tr>
 </table>
 
