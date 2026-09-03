@@ -65,10 +65,6 @@
       <img align="center" src="./assets/icons/Tux_Icon.webp" alt="Tux Image" height="35px" width="30px"/>
       <br/>Linux
     </td>
-    <td align="center">
-      <img align="center" src="./assets/icons/Ollama_logo.webp" alt="Ollama Logo" height="35px" width="35px"/>
-      <br/>Ollama
-    </td>
   </tr>
 </table>
 
