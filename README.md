@@ -45,7 +45,7 @@
 </table>
 
 
-### Tools
+### Stack
 
 <table align="center">
   <tr>
@@ -54,16 +54,16 @@
       <br/>React
     </td>
     <td align="center">
-      <img align="center" src="/assets/icons/git_logo.webp" alt="Git Icon" height="35px" width="35px"/>
-      <br/>Git
+      <img align="center" src="/assets/icons/fastapi_logo.webp" alt="FastAPI Icon" height="35px" width="35px"/>
+      <br/>Fast API
     </td>
     <td align="center">
-      <img align="center" src="./assets/icons/bash_logo.webp" alt="Bash Icon" height="35px" width="35px"/>
-      <br/>Bash
+      <img align="center" src="./assets/icons/postgresql_logo.webp" alt="PostgreSQL Image" height="40px" width="40px"/>
+      <br/>PostgreSQL
     </td>
     <td align="center">
-      <img align="center" src="./assets/icons/Tux_Icon.webp" alt="Tux Image" height="35px" width="30px"/>
-      <br/>Linux
+      <img align="center" src="./assets/icons/docker_logo.webp" alt="Docker Icon" height="35px" width="35px"/>
+      <br/>Docker
     </td>
   </tr>
 </table>
